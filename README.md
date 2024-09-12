@@ -2,7 +2,7 @@
 
 ⚠ **PERINGATAN:** Jika senarai emel ini tersebar atau jatuh ke tangan yang tidak bertanggungjawab, ia boleh mengakibatkan kompromi keselamatan sistem cloud data. Ini boleh membawa kepada akses tidak sah ke maklumat sulit, pencerobohan data peribadi, dan kerugian besar kepada infrastruktur digital. Sila pastikan dokumen ini dilindungi dan hanya diakses oleh individu yang berkenaan.
 
-### 💻 Nota Khusus Mengenai **h22n**:
+### 💻 Nota Khusus Mengenai [![h22n](https://img.shields.io/badge/h22n-blue)]:
 
 🔍 **h22n** telah melakukan tindakan berikut:
 
